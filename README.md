@@ -59,8 +59,6 @@ The project includes several analytical tasks:
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
-
 The Power BI dashboard provides:
 
 - Sales and profit KPIs
